@@ -13,7 +13,7 @@
 
 - 📫 Uma das formas de chegar até mim, é através do meu email principal, que é: jonathasbonifacio18@gmail.com
 
-- ⚡ Um fato engraçado é que, não me apego apenas a uma coisa, estou sempre em busca de adquirir um novo conhecimento.
+- ⚡ Estou aberto a aprender novas tecnologias, pois tenho afinidade com a busca constante de conhecimento.
 
 ### Linguagens:
 <div><style="display: inline_block"><br>
