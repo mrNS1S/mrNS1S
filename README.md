@@ -18,7 +18,7 @@
 ### Linguagens:
 
 <div><style="display: inline_block"><br>
-  <h6>Linguagem com baixo nível de experiência: <img align="center" alt="mrNS1S-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><h6/>
+  <h6>Linguagem com baixo nível de experiência:<img align="center" alt="mrNS1S-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><h6/>
   <h6>Linguagem com nível médio de experiência: 
     <img align="center" alt="mrNS1S-HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img align="center"mrNS1S-CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <h6>Linguagem com maior nível de experiência:
