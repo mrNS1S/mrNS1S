@@ -16,7 +16,6 @@
 - ⚡ Um fato engraçado é que, não me apego apenas a uma coisa, estou sempre em busca de adquirir um novo conhecimento.
 
 ### Linguagens:
-
 <div><style="display: inline_block"><br>
   <h6>Linguagem com baixo nível de experiência:<img align="center" alt="mrNS1S-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><h6/>
   <h6>Linguagem com nível médio de experiência: 
