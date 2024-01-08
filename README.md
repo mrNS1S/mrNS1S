@@ -26,27 +26,24 @@
    <img align="center" alt="mrNS1S-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><h6/>
    </div>
 
-### File in English/Arquivo em inglês
+### File in Portuguese
 
 ### Hello 👋
+### My name is Jonathas Bonifácio, and it's a pleasure to have you here!
 
-### My name is Jonathas Bonifácio, it's a pleasure to have you here!
+### 💬 A little about me 💬
 
-###
+* 🔭 Currently, I find myself unemployed; however, I am actively seeking employment in the field of software programming...
 
-💬 A little about myself 💬
+* 🌱 I am currently learning JavaScript and gradually deepening my understanding of this language...
 
-- 🔭 I am currently unemployed, however, I am looking for a job in the area of software programming, and a study group...
+* 👯 I am looking to participate in projects related to what I am currently studying and to enhance my knowledge in the field...
 
-- 🌱 I'm currently learning Machine Learning and slowly delving deeper into the Python programming language...
+* 🤔 I am seeking assistance with my study of JavaScript or a group willing to study the same...
 
-- 👯 I'm looking to participate in projects that are related to what I currently study, and improving knowledge in the area...
+* 📫 One way to reach me is through my primary email: jonathasbonifacio18@gmail.com
 
-- 🤔 I'm looking for help in my study of Machine Learning or a group willing to study the same...
-
-- 📫 One of the ways to reach me is through my main email, which is: jonathasbonifacio18@gmail.com
-
-- ⚡ I am open to learning new technologies, as I have an affinity for the constant search for knowledge.
+* ⚡ I am open to learning new technologies as I have a strong affinity for continuous knowledge-seeking.
 
 ### Languages:
 <div><style="display: inline_block"><br>
