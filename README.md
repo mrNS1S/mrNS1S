@@ -16,7 +16,7 @@
   </a>
 
   <a href="mailto:jonathasbonifacio47@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" style="border: none;">
+    <img src="https://img.shields.io/badge/-Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" style="border: none;">
   </a>
 </div>
 
