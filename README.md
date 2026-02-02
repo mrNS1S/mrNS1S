@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border: none;">
   </a>
  
-  <a href="https://www.instagram.com/j.bonifacio_09?igsh=NDVteWRhNHhpamFh" target="_blank" style="text-decoration: none;">
+  <a href="https://www.instagram.com/j.bonifacio_bjj?igsh=NDVteWRhNHhpamFh" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="border: none;">
   </a>
 
