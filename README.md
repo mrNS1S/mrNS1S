@@ -13,6 +13,8 @@
 - 🐧 Utilizando Linux como principal ambiente de estudos e desenvolvimento
 - ⚡ Explorando tecnologias voltadas para cybersecurity e low-level computing
 
+---
+
 ## 🛠 Stack & Technologies
 
 <div align="left">
@@ -25,6 +27,8 @@
 <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 
 </div>
+
+---
 
 ## 📫 Contato
 
@@ -43,11 +47,17 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrNS1S&show_icons=true&theme=tokyonight">
+  <img 
+    height="180em" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=mrNS1S&theme=github-dark&hide_border=true"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrNS1S&layout=compact&theme=tokyonight">
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrNS1S&layout=compact&theme=github_dark&hide_border=true"
+  />
 </p>
 
 ---
