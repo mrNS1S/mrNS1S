@@ -1,88 +1,63 @@
-### Arquivo em português/File in Portuguese 
+# Olá, eu sou Jonathas Bonifácio 👋
 
-### Olá 👋
-### Me chamo Jonathas Bonifácio, é um prazer tê-lo aqui!
+```bash
+> Cybersecurity & Software Development
+> Focused on Web Security, Linux and Automation
+```
 
-### 📢 Entre em contato comigo 📢
+## 🚀 Sobre mim
 
-<div align="center" style="display: flex; gap: 10px; justify-content: center;">
-  
-  <a href="https://www.linkedin.com/in/jonathas-bonif%C3%A1cio-55b16034b" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border: none;">
-  </a>
- 
-  <a href="https://www.instagram.com/j.bonifacio_bjj?igsh=NDVteWRhNHhpamFh" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="border: none;">
-  </a>
+- 🔐 Estudando segurança ofensiva e defensiva
+- 🐍 Desenvolvendo automações e ferramentas com Python
+- 🌐 Interessado em segurança web, análise de vulnerabilidades e desenvolvimento de software
+- 🐧 Utilizando Linux como principal ambiente de estudos e desenvolvimento
+- ⚡ Explorando tecnologias voltadas para cybersecurity e low-level computing
 
-  <a href="mailto:jonathasbonifacio47@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/-Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" style="border: none;">
-  </a>
+## 🛠 Stack & Technologies
+
+<div align="left">
+
+<img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+<img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+<img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+
 </div>
 
-### 💬 Um pouco sobre mim 💬
+## 📫 Contato
 
-* 🔯 Atualmente encontro-me desempregado, entretanto, estou procurando um emprego na área de programação de software...
+<div align="left">
 
-* 🌱 Atualmente estou aprendendo C# (C Sharp) e me aprofundando aos poucos nesta linguagem...
+<a href="mailto:jonathasbonifacio018@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red">
+</a>
 
-* 👯 Estou procurando participar de projetos relacionados ao que estudo atualmente para melhorar meu conhecimento na área...
+<a href="https://instagram.com/j.bonifacio_079">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
 
-* 🤔 Estou à procura de ajuda nos meus estudos sobre C# (C Sharp) ou de um grupo disposto a estudar a mesma linguagem...
-
-* ⚡ Estou aberto a aprender novas tecnologias, pois tenho afinidade com a busca constante de conhecimento.
-
-### Linguagens:
-<div>
-  <h6>Linguagem com baixo nível de experiência:
-    <img align="center" alt="mrNS1S-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  </h6>
-  
-  <h6>Linguagem com nível médio de experiência:
-    <img align="center" alt="mrNS1S-HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="mrNS1S-CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  </h6>
-  
-  <h6>Linguagem com maior nível de experiência:
-    <img align="center" alt="mrNS1S-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  </h6>
 </div>
 
-### File in Portuguese
+---
 
-### Hello 👋
-### My name is Jonathas Bonifácio, and it's a pleasure to have you here!
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight">
+</p>
 
-### 💬 A little about me 💬
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight">
+</p>
 
-* 🔯 Currently, I find myself unemployed; however, I am actively seeking employment in the field of software programming...
+---
 
-* 🌱 I am currently learning C# (C Sharp) and gradually deepening my understanding of this language...
-
-* 👯 I am looking to participate in projects related to what I am currently studying and to enhance my knowledge in the field...
-
-* 🤔 I am seeking assistance with my study of C# (C Sharp) or a group willing to study the same...
-
-* ⚡ I am open to learning new technologies as I have a strong affinity for continuous knowledge-seeking.
-
-### Languages:
-<div>
-  <h6>Language with low experience level:
-    <img align="center" alt="mrNS1S-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  </h6>
-  
-  <h6>Language with average experience level:
-    <img align="center" alt="mrNS1S-HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="mrNS1S-CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  </h6>
-  
-  <h6>Language with highest level of experience:
-    <img align="center" alt="mrNS1S-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  </h6>
-</div>
-   
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  
+  <img 
+    alt="github contribution grid snake animation" 
+    src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"
+  >
 </picture>
