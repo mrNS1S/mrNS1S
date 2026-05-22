@@ -53,12 +53,6 @@
   />
 </p>
 
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrNS1S&theme=github_dark"
-  />
-</p>
-
 ---
 
 ![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
